@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>resources/googlemaps.html</file>
+        <file>resources/laptopeye.js</file>
+        <file>resources/qwebchannel.js</file>
+    </qresource>
+</RCC>
